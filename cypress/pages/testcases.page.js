@@ -1,0 +1,1 @@
+export const tcview = ':nth-child(2) > .panel > .panel-heading > .panel-title > a > u'
